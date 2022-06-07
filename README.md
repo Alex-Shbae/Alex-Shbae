@@ -3,8 +3,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=5594F0&width=550&lines=%F0%9F%91%8B+Im'+Alex+Bae%2C+Front+End+Developer)](https://git.io/typing-svg)
 
+
+
+
+<br/>  
+
 <div><img src="https://github-readme-stats.vercel.app/api?username=Alex-Shbae&show_icons=true&count_private=true&hide_border=false" align="center" /></div> 
 <br/>  
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alex-Shbae&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 <table><tr><td valign="top" width="33%">
