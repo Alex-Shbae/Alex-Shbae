@@ -1,4 +1,7 @@
   
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&color=5594F0&lines=%F0%9F%91%8B+Im'+Alex+Bae%2C+Front+End+Developer)](https://git.io/typing-svg)
+
 <div><img src="https://github-readme-stats.vercel.app/api?username=Alex-Shbae&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>  
 
